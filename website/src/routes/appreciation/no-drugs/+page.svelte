@@ -6,7 +6,7 @@
 			title="motivation"
 			width="100%"
 			height="100%"
-			src="https://www.youtube.com/embed/tgbNymZ7vqY"
+			src="https://www.youtube.com/embed/CSKKjKHBKrg"
 		>
 		</iframe>
 	</div>
